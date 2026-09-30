@@ -121,7 +121,7 @@ Commit Message 规范说明了清晰的提交信息对于理解代码修改和�
 
 # 5. Git 分支管理与冲突解决
 
-在完成基础提交后，我创建 feature 分支，并在该分支中修改 main.c 文件。
+在完成基础提交后，我创建 feature 分支，并在该分支中修改 main.c 文件并提交。
 
 修改内容为增加 feature 分支对应的输出信息(增加fromfeature)。
 
