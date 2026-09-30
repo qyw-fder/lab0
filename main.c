@@ -3,5 +3,5 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Hello, gitlab!\n");
+    printf("Hello, gitlab!frommain\n");
 }
